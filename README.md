@@ -1,0 +1,1 @@
+This is a super simple app with nextjs frontend and Solana backend that increments a counter.
